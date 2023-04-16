@@ -1,1 +1,1 @@
-# LLM-Detection
+# aigc-detection
